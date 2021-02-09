@@ -25,3 +25,24 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+###########################################READ ME TO INSTALL ALL FRAMEWORK FOR YOUR PROJECTS##################################################
+#INSTALL BOOSTRAP
+
+> npm install bootstrap
+>
+> > go to file style.scss and add > @import '~bootstrap/dist/css/bootstrap.min.css';
+
+# INSTALL JQUERY
+
+> npm install jquery
+
+# INSTALL ANT DESIGN
+
+##> npm install antd
+
+> npm install ng-zorro-antd
+> npm install --save @ant-design/icons
+
+# UPDATE NPM TO GET LASTED VERSION
+
+> npm install -g npm
